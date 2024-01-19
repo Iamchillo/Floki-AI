@@ -3,7 +3,7 @@
 <h1><b>ADY CHI AI</b></h1><br>
  <div align="center">
 <p align="center">
-        <img src="https://telegra.ph/file/IMG_1705265312190.png" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+        <img src="https://github.com/Iamchillo/Floki-AI/blob/main/IMG_1705265312190.png" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">☠ⒾⒶⓂⒸⒽⒾⓁⓁⓄ𓄿</h1>
 </p>
